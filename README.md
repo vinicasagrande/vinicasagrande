@@ -1,7 +1,7 @@
 ### Olá! Eu sou Vinicius Casagrande 🫡
 
 
-![Vinicius GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicasagrande&show_icons=true&theme=radical)
+![Vinicius Casagrande's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinicasagrande&show_icons=true&theme=transparent)
 
 
 ### Skills:
@@ -21,7 +21,7 @@
 
 
 
-### Contact
+### Contact:
 
 ### 📞
 
